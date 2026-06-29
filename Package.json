@@ -1,0 +1,25 @@
+
+
+{
+  "name": "Meliodas",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "meliodas",
+    "pogi"
+  ],
+  "author": "melolo",
+  "license": "MI
+{
